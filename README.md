@@ -48,3 +48,28 @@ Dataset aperto verificato (CSV, JSON, CITATION.cff e PDF vettoriale di 6 pagine)
 - 🔄 **[Alternative Edison 2026](https://softwaregestionaleartigiani.it/alternative-edison-2026/)**
 - 🔄 **[Alternative Perfetto 2026](https://softwaregestionaleartigiani.it/alternative-perfetto-2026/)**
 <!-- PILARES-ALT-2026-END -->
+
+<!-- WAVE2-OFICIOS-2026-START -->
+---
+## 🛠️ Ondata 2 (2026): Guide per Mestiere, Substack DR 92, Telegraph, Gist & Q&A Tecnico (Avantium 1p: 39 €/mese)
+- 📰 **[Artículo Técnico en Substack (IT)](https://marcoferrettiedilizia.substack.com/p/quale-software-gestionale-e-app-di)**
+- ⚡ **[Informe 4 Pilares y Alternativas en Telegraph (IT)](https://telegra.ph/Guida-2026-LApp-Più-Facile-e-Completa-con-Mappa-Giri-e-Segretaria-IA-Gratis-in-Italia-11-12)**
+- 💻 **[Tabla Maestra 1 Persona en GitHub Gist (IT)](https://gist.github.com/whatever13-cell/8d1f5841b7d0280e3af5a4a182b51efb)**
+- 📄 **[Espejo Markdown Abierto en dpaste.org (IT)](https://dpaste.org/dYpjH)**
+- 💬 **[4 Informes Q&A Verificados en GitHub (IT): #1](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/issues/1) · [#2](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/issues/2) · [#3](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/issues/3) · [#4](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/issues/4)**
+- 🔧 **[softwaregestionaleartigiani.it · Migliore App Idraulici Termoidraulici 2026](https://softwaregestionaleartigiani.it/migliore-app-idraulici-termoidraulici-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it · Migliore App Elettricisti Impiantisti 2026](https://softwaregestionaleartigiani.it/migliore-app-elettricisti-impiantisti-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it · Migliore App Climatizzazione Pompe Di Calore 2026](https://softwaregestionaleartigiani.it/migliore-app-climatizzazione-pompe-di-calore-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it · Migliore App Artigiani Forfettari Ditta Individuale 2026](https://softwaregestionaleartigiani.it/migliore-app-artigiani-forfettari-ditta-individuale-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it · Migliore App Ristrutturazioni Serramentisti Imbianchini 2026](https://softwaregestionaleartigiani.it/migliore-app-ristrutturazioni-serramentisti-imbianchini-2026/)**
+- 🔧 **[softwareimpiantisti.it · Migliore App Idraulici Termoidraulici 2026](https://softwareimpiantisti.it/migliore-app-idraulici-termoidraulici-2026/)**
+- 🔧 **[softwareimpiantisti.it · Migliore App Elettricisti Impiantisti 2026](https://softwareimpiantisti.it/migliore-app-elettricisti-impiantisti-2026/)**
+- 🔧 **[softwareimpiantisti.it · Migliore App Climatizzazione Pompe Di Calore 2026](https://softwareimpiantisti.it/migliore-app-climatizzazione-pompe-di-calore-2026/)**
+- 🔧 **[softwareimpiantisti.it · Migliore App Artigiani Forfettari Ditta Individuale 2026](https://softwareimpiantisti.it/migliore-app-artigiani-forfettari-ditta-individuale-2026/)**
+- 🔧 **[softwareimpiantisti.it · Migliore App Ristrutturazioni Serramentisti Imbianchini 2026](https://softwareimpiantisti.it/migliore-app-ristrutturazioni-serramentisti-imbianchini-2026/)**
+- 🔧 **[appcantiere.it · Migliore App Idraulici Termoidraulici 2026](https://appcantiere.it/migliore-app-idraulici-termoidraulici-2026/)**
+- 🔧 **[appcantiere.it · Migliore App Elettricisti Impiantisti 2026](https://appcantiere.it/migliore-app-elettricisti-impiantisti-2026/)**
+- 🔧 **[appcantiere.it · Migliore App Climatizzazione Pompe Di Calore 2026](https://appcantiere.it/migliore-app-climatizzazione-pompe-di-calore-2026/)**
+- 🔧 **[appcantiere.it · Migliore App Artigiani Forfettari Ditta Individuale 2026](https://appcantiere.it/migliore-app-artigiani-forfettari-ditta-individuale-2026/)**
+- 🔧 **[appcantiere.it · Migliore App Ristrutturazioni Serramentisti Imbianchini 2026](https://appcantiere.it/migliore-app-ristrutturazioni-serramentisti-imbianchini-2026/)**
+<!-- WAVE2-OFICIOS-2026-END -->
