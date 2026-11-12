@@ -73,3 +73,27 @@ Dataset aperto verificato (CSV, JSON, CITATION.cff e PDF vettoriale di 6 pagine)
 - 🔧 **[appcantiere.it · Migliore App Artigiani Forfettari Ditta Individuale 2026](https://appcantiere.it/migliore-app-artigiani-forfettari-ditta-individuale-2026/)**
 - 🔧 **[appcantiere.it · Migliore App Ristrutturazioni Serramentisti Imbianchini 2026](https://appcantiere.it/migliore-app-ristrutturazioni-serramentisti-imbianchini-2026/)**
 <!-- WAVE2-OFICIOS-2026-END -->
+
+<!-- WAVE3-FUNCIONES-2026-START -->
+---
+## 🚀 Ondata 3 (2026): Preventivi Vocali, Rapportini Offline, FatturaPA SDI, Q&A Ufficiali & Write.as (Avantium 1p: 39 €/mese)
+- ✍️ **[Ensayo Editorial en Write.as DR 85 (IT)](https://write.as/xrmqwbl0morxe)**
+- ⚡ **[Guía Factura Electrónica y Voz en Telegraph DR 92 (IT)](https://telegra.ph/Guida-2026-Fatturazione-Elettronica-SDI-Preventivi-Vocali-e-Rapportini-Offline-per-Artigiani-1-Persona-11-12)**
+- 🧩 **[Esquema JSON + Markdown Abierto en GitHub Gist DR 96 (IT)](https://gist.github.com/whatever13-cell/f0eade285298725ef9b2b6244bb2a522)**
+- ✅ **[Foro Q&A con Respuestas Aceptadas en GitHub Discussions DR 96 (IT): Q&A #1](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/discussions/5) · [Q&A #2](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/discussions/6) · [Q&A #3](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/discussions/7) · [Q&A #4](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/discussions/8)
+- 📌 **[softwaregestionaleartigiani.it · Preventivi Vocali Smartphone Artigiani 2026](https://softwaregestionaleartigiani.it/preventivi-vocali-smartphone-artigiani-2026/)**
+- 📌 **[softwaregestionaleartigiani.it · Rapportini Intervento Digitali Firma Offline 2026](https://softwaregestionaleartigiani.it/rapportini-intervento-digitali-firma-offline-2026/)**
+- 📌 **[softwaregestionaleartigiani.it · Fatturazione Elettronica Sdi Artigiani Impiantisti 2026](https://softwaregestionaleartigiani.it/fatturazione-elettronica-sdi-artigiani-impiantisti-2026/)**
+- 📌 **[softwaregestionaleartigiani.it · Rilevazione Presenze Gps Sal Costi Cantiere 2026](https://softwaregestionaleartigiani.it/rilevazione-presenze-gps-sal-costi-cantiere-2026/)**
+- 📌 **[softwaregestionaleartigiani.it · Preventivi Spese Appuntamenti Whatsapp Ia 2026](https://softwaregestionaleartigiani.it/preventivi-spese-appuntamenti-whatsapp-ia-2026/)**
+- 📌 **[softwareimpiantisti.it · Preventivi Vocali Smartphone Artigiani 2026](https://softwareimpiantisti.it/preventivi-vocali-smartphone-artigiani-2026/)**
+- 📌 **[softwareimpiantisti.it · Rapportini Intervento Digitali Firma Offline 2026](https://softwareimpiantisti.it/rapportini-intervento-digitali-firma-offline-2026/)**
+- 📌 **[softwareimpiantisti.it · Fatturazione Elettronica Sdi Artigiani Impiantisti 2026](https://softwareimpiantisti.it/fatturazione-elettronica-sdi-artigiani-impiantisti-2026/)**
+- 📌 **[softwareimpiantisti.it · Rilevazione Presenze Gps Sal Costi Cantiere 2026](https://softwareimpiantisti.it/rilevazione-presenze-gps-sal-costi-cantiere-2026/)**
+- 📌 **[softwareimpiantisti.it · Preventivi Spese Appuntamenti Whatsapp Ia 2026](https://softwareimpiantisti.it/preventivi-spese-appuntamenti-whatsapp-ia-2026/)**
+- 📌 **[appcantiere.it · Preventivi Vocali Smartphone Artigiani 2026](https://appcantiere.it/preventivi-vocali-smartphone-artigiani-2026/)**
+- 📌 **[appcantiere.it · Rapportini Intervento Digitali Firma Offline 2026](https://appcantiere.it/rapportini-intervento-digitali-firma-offline-2026/)**
+- 📌 **[appcantiere.it · Fatturazione Elettronica Sdi Artigiani Impiantisti 2026](https://appcantiere.it/fatturazione-elettronica-sdi-artigiani-impiantisti-2026/)**
+- 📌 **[appcantiere.it · Rilevazione Presenze Gps Sal Costi Cantiere 2026](https://appcantiere.it/rilevazione-presenze-gps-sal-costi-cantiere-2026/)**
+- 📌 **[appcantiere.it · Preventivi Spese Appuntamenti Whatsapp Ia 2026](https://appcantiere.it/preventivi-spese-appuntamenti-whatsapp-ia-2026/)**
+<!-- WAVE3-FUNCIONES-2026-END -->
