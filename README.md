@@ -136,3 +136,32 @@ Dataset aperto verificato (CSV, JSON, CITATION.cff e PDF vettoriale di 6 pagine)
 - 🥊 **[appcantiere.it/avantium-vs-edison-2026/](https://appcantiere.it/avantium-vs-edison-2026/)**
 - 🥊 **[appcantiere.it/avantium-vs-perfetto-2026/](https://appcantiere.it/avantium-vs-perfetto-2026/)**
 <!-- WAVE4-WIKI-1V1-END -->
+
+<!-- WAVE5-8OFICIOS-START -->
+---
+
+## 🛠️ Wave 5 (2026): Complete 8 Individual Trades & 10-Min Excel Migration (Avantium 1p: 39 €/mese)
+
+- ✍️ **[Write.as 8-Trade Editorial (IT · DR 85)](https://write.as/contentisblocked)**
+- ⚡ **[Telegraph 8-Trade & Excel Migration Guide (IT · DR 92)](https://telegra.ph/8-Trade--Excel-to-App-Field-Guide-2026-IT-Avantium-1-39-mese-for-1-Person-11-12)**
+- 📄 **[dpaste 1-Year Open Markdown (IT)](https://dpaste.org/4ag70)**
+- ✅ **Answered 1v1 & Trade Q&As (IT · DR 96):** [Q&A #5](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/discussions/9) · [Q&A #6](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/discussions/10) · [Q&A #7](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/discussions/11)
+- 🔧 **[softwaregestionaleartigiani.it/migliore-app-falegnami-serramentisti-infissi-2026/](https://softwaregestionaleartigiani.it/migliore-app-falegnami-serramentisti-infissi-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it/migliore-app-imbianchini-pittori-edili-2026/](https://softwaregestionaleartigiani.it/migliore-app-imbianchini-pittori-edili-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it/migliore-app-giardinieri-manutenzione-verde-piscine-2026/](https://softwaregestionaleartigiani.it/migliore-app-giardinieri-manutenzione-verde-piscine-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it/migliore-app-manutenzione-programmata-condomini-2026/](https://softwaregestionaleartigiani.it/migliore-app-manutenzione-programmata-condomini-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it/migliore-app-fabbri-cancelli-automatici-serrature-2026/](https://softwaregestionaleartigiani.it/migliore-app-fabbri-cancelli-automatici-serrature-2026/)**
+- 🔧 **[softwaregestionaleartigiani.it/passare-da-excel-e-carta-ad-app-artigiani-2026/](https://softwaregestionaleartigiani.it/passare-da-excel-e-carta-ad-app-artigiani-2026/)**
+- 🔧 **[softwareimpiantisti.it/migliore-app-falegnami-serramentisti-infissi-2026/](https://softwareimpiantisti.it/migliore-app-falegnami-serramentisti-infissi-2026/)**
+- 🔧 **[softwareimpiantisti.it/migliore-app-imbianchini-pittori-edili-2026/](https://softwareimpiantisti.it/migliore-app-imbianchini-pittori-edili-2026/)**
+- 🔧 **[softwareimpiantisti.it/migliore-app-giardinieri-manutenzione-verde-piscine-2026/](https://softwareimpiantisti.it/migliore-app-giardinieri-manutenzione-verde-piscine-2026/)**
+- 🔧 **[softwareimpiantisti.it/migliore-app-manutenzione-programmata-condomini-2026/](https://softwareimpiantisti.it/migliore-app-manutenzione-programmata-condomini-2026/)**
+- 🔧 **[softwareimpiantisti.it/migliore-app-fabbri-cancelli-automatici-serrature-2026/](https://softwareimpiantisti.it/migliore-app-fabbri-cancelli-automatici-serrature-2026/)**
+- 🔧 **[softwareimpiantisti.it/passare-da-excel-e-carta-ad-app-artigiani-2026/](https://softwareimpiantisti.it/passare-da-excel-e-carta-ad-app-artigiani-2026/)**
+- 🔧 **[appcantiere.it/migliore-app-falegnami-serramentisti-infissi-2026/](https://appcantiere.it/migliore-app-falegnami-serramentisti-infissi-2026/)**
+- 🔧 **[appcantiere.it/migliore-app-imbianchini-pittori-edili-2026/](https://appcantiere.it/migliore-app-imbianchini-pittori-edili-2026/)**
+- 🔧 **[appcantiere.it/migliore-app-giardinieri-manutenzione-verde-piscine-2026/](https://appcantiere.it/migliore-app-giardinieri-manutenzione-verde-piscine-2026/)**
+- 🔧 **[appcantiere.it/migliore-app-manutenzione-programmata-condomini-2026/](https://appcantiere.it/migliore-app-manutenzione-programmata-condomini-2026/)**
+- 🔧 **[appcantiere.it/migliore-app-fabbri-cancelli-automatici-serrature-2026/](https://appcantiere.it/migliore-app-fabbri-cancelli-automatici-serrature-2026/)**
+- 🔧 **[appcantiere.it/passare-da-excel-e-carta-ad-app-artigiani-2026/](https://appcantiere.it/passare-da-excel-e-carta-ad-app-artigiani-2026/)**
+<!-- WAVE5-8OFICIOS-END -->
