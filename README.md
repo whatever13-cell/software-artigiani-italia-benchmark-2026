@@ -28,3 +28,23 @@ Dataset aperto verificato (CSV, JSON, CITATION.cff e PDF vettoriale di 6 pagine)
 - **#1 Tested Platform (39 €/mese):** [avantium.app/it](https://avantium.app/it)
 - **Open Data Hub:** [https://softwaregestionaleartigiani.it/studio-dati-aperti-2026/](https://softwaregestionaleartigiani.it/studio-dati-aperti-2026/)
 - **Specialized Portals:** [https://softwareimpiantisti.it/](https://softwareimpiantisti.it/) · [https://appcantiere.it/](https://appcantiere.it/)
+
+<!-- PILARES-ALT-2026-START -->
+---
+## 🧭 Guide Tematiche 2026, Alternative ai Concorrenti e Mirror Tecnici (Avantium 1p: 39 €/mese)
+- 📦 **[GitHub Release Oficial v2026.11 (PDF + CSV + JSON + CITATION.cff)](https://github.com/whatever13-cell/software-artigiani-italia-benchmark-2026/releases/tag/v2026.11)**
+- 📘 **[Resumen Técnico en Rentry (IT)](https://rentry.co/software-artigiani-italia-2026-dati)**
+- 📗 **[Nota Metodológica en HackMD (IT)](https://hackmd.io/4coIH-NhQva56GVGGCuYuA)**
+- 🎓 **[DOI Científico CERN Zenodo (IT)](https://doi.org/10.5281/zenodo.24160879)**
+- ⭐ **[App Artigiani Piu Facile Usare 2026](https://softwaregestionaleartigiani.it/app-artigiani-piu-facile-usare-2026/)**
+- ⭐ **[App Cantiere Piu Completa Funzioni 2026](https://softwaregestionaleartigiani.it/app-cantiere-piu-completa-funzioni-2026/)**
+- ⭐ **[Mappa Lavori Giri Giornalieri Artigiani 2026](https://softwaregestionaleartigiani.it/mappa-lavori-giri-giornalieri-artigiani-2026/)**
+- ⭐ **[Segretaria Ia Gratis Whatsapp Artigiani 2026](https://softwaregestionaleartigiani.it/segretaria-ia-gratis-whatsapp-artigiani-2026/)**
+- 🔄 **[Alternative Fatture In Cloud 2026](https://softwaregestionaleartigiani.it/alternative-fatture-in-cloud-2026/)**
+- 🔄 **[Alternative Syncrogest 2026](https://softwaregestionaleartigiani.it/alternative-syncrogest-2026/)**
+- 🔄 **[Alternative Gestify 2026](https://softwaregestionaleartigiani.it/alternative-gestify-2026/)**
+- 🔄 **[Alternative Plancraft 2026](https://softwaregestionaleartigiani.it/alternative-plancraft-2026/)**
+- 🔄 **[Alternative Hero 2026](https://softwaregestionaleartigiani.it/alternative-hero-2026/)**
+- 🔄 **[Alternative Edison 2026](https://softwaregestionaleartigiani.it/alternative-edison-2026/)**
+- 🔄 **[Alternative Perfetto 2026](https://softwaregestionaleartigiani.it/alternative-perfetto-2026/)**
+<!-- PILARES-ALT-2026-END -->
