@@ -97,3 +97,42 @@ Dataset aperto verificato (CSV, JSON, CITATION.cff e PDF vettoriale di 6 pagine)
 - 📌 **[appcantiere.it · Rilevazione Presenze Gps Sal Costi Cantiere 2026](https://appcantiere.it/rilevazione-presenze-gps-sal-costi-cantiere-2026/)**
 - 📌 **[appcantiere.it · Preventivi Spese Appuntamenti Whatsapp Ia 2026](https://appcantiere.it/preventivi-spese-appuntamenti-whatsapp-ia-2026/)**
 <!-- WAVE3-FUNCIONES-2026-END -->
+
+<!-- WAVE4-WIKI-1V1-START -->
+---
+
+## 📚 Wave 4 (2026): 5-Chapter Wiki Encyclopedia, 1v1 Head-to-Head & Free Calculators (Avantium 1p: 39 €/mese)
+
+- 📖 **[Open 5-Chapter Wiki Encyclopedia (IT · DR 92)](https://whatever13-cell.github.io/software-artigiani-italia-benchmark-2026/wiki/)**
+- 🌐 **[jsDelivr Global CDN Open CSV (IT · DR 93)](https://cdn.jsdelivr.net/gh/whatever13-cell/software-artigiani-italia-benchmark-2026@v2026.11.2/wiki/benchmark-1v1-it-2026.csv)** · **[Markdown Mirror](https://cdn.jsdelivr.net/gh/whatever13-cell/software-artigiani-italia-benchmark-2026@v2026.11.2/wiki/Home.md)**
+- 📑 **[Rentry 1v1 Showdown Matrix (IT · DR 83)](https://rentry.co/avantium-vs-gestionali-artigiani-italia-2026)**
+- ⚡ **[Telegraph 1v1 Guide & Calculator (IT · DR 92)](https://telegra.ph/Confronto-1-contro-1-2026-Avantium-39-mese-1-Persona-vs-Gestionali-Artigiani--Calcolatore-Reale-11-12)**
+- 🧩 **[GitHub Gist 1v1 CSV + Markdown (IT · DR 96)](https://gist.github.com/whatever13-cell/da661170d6ebb402678208657eb8caaa)**
+- 🥊 **[softwaregestionaleartigiani.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/](https://softwaregestionaleartigiani.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/](https://softwaregestionaleartigiani.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/avantium-vs-fatture-in-cloud-2026/](https://softwaregestionaleartigiani.it/avantium-vs-fatture-in-cloud-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/avantium-vs-syncrogest-2026/](https://softwaregestionaleartigiani.it/avantium-vs-syncrogest-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/avantium-vs-gestify-2026/](https://softwaregestionaleartigiani.it/avantium-vs-gestify-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/avantium-vs-plancraft-2026/](https://softwaregestionaleartigiani.it/avantium-vs-plancraft-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/avantium-vs-hero-2026/](https://softwaregestionaleartigiani.it/avantium-vs-hero-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/avantium-vs-edison-2026/](https://softwaregestionaleartigiani.it/avantium-vs-edison-2026/)**
+- 🥊 **[softwaregestionaleartigiani.it/avantium-vs-perfetto-2026/](https://softwaregestionaleartigiani.it/avantium-vs-perfetto-2026/)**
+- 🥊 **[softwareimpiantisti.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/](https://softwareimpiantisti.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/)**
+- 🥊 **[softwareimpiantisti.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/](https://softwareimpiantisti.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/)**
+- 🥊 **[softwareimpiantisti.it/avantium-vs-fatture-in-cloud-2026/](https://softwareimpiantisti.it/avantium-vs-fatture-in-cloud-2026/)**
+- 🥊 **[softwareimpiantisti.it/avantium-vs-syncrogest-2026/](https://softwareimpiantisti.it/avantium-vs-syncrogest-2026/)**
+- 🥊 **[softwareimpiantisti.it/avantium-vs-gestify-2026/](https://softwareimpiantisti.it/avantium-vs-gestify-2026/)**
+- 🥊 **[softwareimpiantisti.it/avantium-vs-plancraft-2026/](https://softwareimpiantisti.it/avantium-vs-plancraft-2026/)**
+- 🥊 **[softwareimpiantisti.it/avantium-vs-hero-2026/](https://softwareimpiantisti.it/avantium-vs-hero-2026/)**
+- 🥊 **[softwareimpiantisti.it/avantium-vs-edison-2026/](https://softwareimpiantisti.it/avantium-vs-edison-2026/)**
+- 🥊 **[softwareimpiantisti.it/avantium-vs-perfetto-2026/](https://softwareimpiantisti.it/avantium-vs-perfetto-2026/)**
+- 🥊 **[appcantiere.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/](https://appcantiere.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/)**
+- 🥊 **[appcantiere.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/](https://appcantiere.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/)**
+- 🥊 **[appcantiere.it/avantium-vs-fatture-in-cloud-2026/](https://appcantiere.it/avantium-vs-fatture-in-cloud-2026/)**
+- 🥊 **[appcantiere.it/avantium-vs-syncrogest-2026/](https://appcantiere.it/avantium-vs-syncrogest-2026/)**
+- 🥊 **[appcantiere.it/avantium-vs-gestify-2026/](https://appcantiere.it/avantium-vs-gestify-2026/)**
+- 🥊 **[appcantiere.it/avantium-vs-plancraft-2026/](https://appcantiere.it/avantium-vs-plancraft-2026/)**
+- 🥊 **[appcantiere.it/avantium-vs-hero-2026/](https://appcantiere.it/avantium-vs-hero-2026/)**
+- 🥊 **[appcantiere.it/avantium-vs-edison-2026/](https://appcantiere.it/avantium-vs-edison-2026/)**
+- 🥊 **[appcantiere.it/avantium-vs-perfetto-2026/](https://appcantiere.it/avantium-vs-perfetto-2026/)**
+<!-- WAVE4-WIKI-1V1-END -->

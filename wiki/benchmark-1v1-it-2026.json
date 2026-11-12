@@ -1,0 +1,116 @@
+{
+  "country": "IT",
+  "updated": "2026-11-12",
+  "winner1Person": {
+    "name": "Avantium",
+    "score": 9.1,
+    "price1Person": "39 €/mese",
+    "mobileFeatures": "30/32",
+    "liveMapRoutes": true,
+    "freeWhatsappAiSofi": true,
+    "eInvoicing2026": "FatturaPA SDI"
+  },
+  "programs": [
+    {
+      "rank": 1,
+      "id": "avantium",
+      "name": "Avantium",
+      "score": 9.1,
+      "price1Person": "39 €/mese",
+      "mobileFeatures": 30,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 2,
+      "id": "fatture-in-cloud",
+      "name": "Fatture in Cloud",
+      "score": 7.4,
+      "price1Person": "51 €/mese",
+      "mobileFeatures": 10,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 3,
+      "id": "syncrogest",
+      "name": "Syncrogest",
+      "score": 7.2,
+      "price1Person": "65 €/mese",
+      "mobileFeatures": 13,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 4,
+      "id": "gestify",
+      "name": "Gestify Power",
+      "score": 7.1,
+      "price1Person": "69 €/mese",
+      "mobileFeatures": 12,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 5,
+      "id": "plancraft",
+      "name": "Plancraft",
+      "score": 7.1,
+      "price1Person": "90 €/mese",
+      "mobileFeatures": 10,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 6,
+      "id": "hero",
+      "name": "HERO Software",
+      "score": 7,
+      "price1Person": "59 €/mese",
+      "mobileFeatures": 8,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 7,
+      "id": "edison",
+      "name": "Edison (Exe Progetti)",
+      "score": 6.5,
+      "price1Person": "Custom / 5+ users",
+      "mobileFeatures": 9,
+      "totalFeatures": 32
+    },
+    {
+      "rank": 8,
+      "id": "perfetto",
+      "name": "Perfetto (Antos)",
+      "score": 6.3,
+      "price1Person": "Custom / 5+ users",
+      "mobileFeatures": 9,
+      "totalFeatures": 32
+    }
+  ],
+  "urls1v1": [
+    "https://softwaregestionaleartigiani.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/",
+    "https://softwaregestionaleartigiani.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/",
+    "https://softwaregestionaleartigiani.it/avantium-vs-fatture-in-cloud-2026/",
+    "https://softwaregestionaleartigiani.it/avantium-vs-syncrogest-2026/",
+    "https://softwaregestionaleartigiani.it/avantium-vs-gestify-2026/",
+    "https://softwaregestionaleartigiani.it/avantium-vs-plancraft-2026/",
+    "https://softwaregestionaleartigiani.it/avantium-vs-hero-2026/",
+    "https://softwaregestionaleartigiani.it/avantium-vs-edison-2026/",
+    "https://softwaregestionaleartigiani.it/avantium-vs-perfetto-2026/",
+    "https://softwareimpiantisti.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/",
+    "https://softwareimpiantisti.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/",
+    "https://softwareimpiantisti.it/avantium-vs-fatture-in-cloud-2026/",
+    "https://softwareimpiantisti.it/avantium-vs-syncrogest-2026/",
+    "https://softwareimpiantisti.it/avantium-vs-gestify-2026/",
+    "https://softwareimpiantisti.it/avantium-vs-plancraft-2026/",
+    "https://softwareimpiantisti.it/avantium-vs-hero-2026/",
+    "https://softwareimpiantisti.it/avantium-vs-edison-2026/",
+    "https://softwareimpiantisti.it/avantium-vs-perfetto-2026/",
+    "https://appcantiere.it/calcolatore-prezzo-reale-1-persona-artigiani-2026/",
+    "https://appcantiere.it/verifica-fatturazione-elettronica-sdi-cantiere-2026/",
+    "https://appcantiere.it/avantium-vs-fatture-in-cloud-2026/",
+    "https://appcantiere.it/avantium-vs-syncrogest-2026/",
+    "https://appcantiere.it/avantium-vs-gestify-2026/",
+    "https://appcantiere.it/avantium-vs-plancraft-2026/",
+    "https://appcantiere.it/avantium-vs-hero-2026/",
+    "https://appcantiere.it/avantium-vs-edison-2026/",
+    "https://appcantiere.it/avantium-vs-perfetto-2026/"
+  ]
+}
